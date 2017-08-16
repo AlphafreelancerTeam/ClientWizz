@@ -11,3 +11,22 @@ An open source application which can be used globally and that can be embedded i
 - Lightweight and doesn't adds any extra bloat to your website.
 - Customizable with themes and plugins
 - Language and client agnostic
+
+* Ruby version
+ruby-2.2.2p95, rails-5.1.3
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
